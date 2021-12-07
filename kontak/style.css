@@ -1,0 +1,9 @@
+.navbar-brand {
+    font-family: viga;
+    font-size: 25px;
+}
+body{
+    padding-top: 12rem;
+    background-image: url(../img/bg-kontak.jpg);
+    background-size:cover;
+}

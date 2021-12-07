@@ -1,0 +1,14 @@
+/* Navbar */
+.navbar-brand {
+    font-family: viga;
+    font-size: 25px;
+}
+/* jumboton */
+.jumbotron {
+    padding-top: 8rem;
+    background-image:url(img/bg-1.jpg);
+    background-size:cover;
+}
+.section{
+    padding-top: 5rem;
+}
